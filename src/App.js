@@ -10,6 +10,7 @@ function App() {
       <Navi/>
       <Container className="main">
         <Dashboard/>
+        <div>HELLO WORLD</div>
       </Container>
     </div>
   );
